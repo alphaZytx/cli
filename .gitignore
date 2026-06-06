@@ -1,0 +1,8 @@
+# Build artifacts
+parts/
+generate_content.py
+verify.py
+build_notes.py
+gemini-code-1780737736179.html
+*.pyc
+__pycache__/
